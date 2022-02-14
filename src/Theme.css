@@ -1,0 +1,42 @@
+.header{
+    background-color: #696969;
+    color: aliceblue;
+    padding-top: 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.header1{
+    text-align: center;
+}
+.logo{
+    height: 60px;
+    width:60px ;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+
+.avatar{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.map1{
+    background-color: #696969;
+    border-radius: 15px;
+    width: 20%;
+    text-align: center;
+   
+}
+
+
+.footer{
+    background-color: #696969;
+    color: white;
+    height: 115px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 15px;
+    
+}
